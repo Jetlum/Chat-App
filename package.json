@@ -1,0 +1,18 @@
+{
+  "name": "rtsupport",
+  "version": "1.0.0",
+  "description": "Realtime support frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jetlum Ajeti",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-loader": "^5.3.3",
+    "react": "^0.14.2",
+    "webpack": "^1.12.2",
+    "fecha": "^1.0.0",
+    "react-dom": "^0.14.2"
+  }
+}
