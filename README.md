@@ -37,6 +37,6 @@ Use ``` webpack-dev-server --port 300 ``` cause RethinkDB takes the port ```:808
 
 # RethinkDB
 
-[Download RethinkDB now available for Windows too and write queries with REQL(RethinkDb Query Language)] - (http://rethinkdb.com/docs/)
+[Download RethinkDB now available for Windows too and write queries with REQL-RethinkDb Query Language](http://rethinkdb.com/docs/)
 
 
