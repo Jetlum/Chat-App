@@ -32,10 +32,11 @@ $ npm install webpack --save-dev
 ```
 $ webpack-dev-server
 ```
-Open ```http://localhost:8080/``` and try it.
+Open ```http://localhost:8080/``` and try it(Just for the front-end).
+Use ``` webpack-dev-server --port 300 ``` cause RethinkDB database takes port ```:8080```
 
+# RethinkDB
 
-#Start learning
+[Download RethinkDB now available for Windows too and write queries with REQL(RethinkDb Query Language)] - (http://rethinkdb.com/docs/)
 
-[Start learning with videos](http://courses.knowthen.com/courses/learn-how-to-develop-realtime-web-apps) - How to Develop Realtime Web Apps
 
