@@ -33,7 +33,7 @@ $ npm install webpack --save-dev
 $ webpack-dev-server
 ```
 Open ```http://localhost:8080/``` and try it(Just for the front-end).
-Use ``` webpack-dev-server --port 300 ``` cause RethinkDB takes the port ```:8080```
+Use ``` webpack-dev-server --port 3000 ``` cause RethinkDB takes the port ```:8080```
 
 # RethinkDB
 
