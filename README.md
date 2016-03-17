@@ -13,8 +13,11 @@
 #Feature Suggestions
 
 -Clientside Error Messages
+
 -Editing/Deleting Messages
+
 -Private Messaging
+
 -Authentication with JWT's
 
 
