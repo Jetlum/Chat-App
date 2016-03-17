@@ -8,6 +8,15 @@
 
 [RethinkDB](http://rethinkdb.com/) - A cool, new Open-Source database for the realtime web
 
+#Feel free to contribute
+
+#Feature Suggestions
+
+-Clientside Error Messages
+-Editing/Deleting Messages
+-Private Messaging
+-Authentication with JWT's
+
 
 #Install npm 
 
