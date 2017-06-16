@@ -12,7 +12,7 @@
 
 ![App look](https://github.com/Jetlum/Chat-App/blob/master/conversation.PNG)
 
-#Feature Suggestions
+# Feature Suggestions
 
 -Clientside Error Messages
 
@@ -23,25 +23,25 @@
 -Authentication with JWT's
 
 
-#Install npm 
+# Install npm 
 
 ```
 $ npm install --save-dev
 ```
 
-#Install Babel CLI locally by running:
+# Install Babel CLI locally by running:
 
 ```
 $ npm install --save-dev babel-cli
 ```
 
-#Install and add webpack to the package.json with:
+# Install and add webpack to the package.json with:
 
 ```
 $ npm install webpack --save-dev
 ```
 
-#Run
+# Run
 
 ```
 $ webpack-dev-server
